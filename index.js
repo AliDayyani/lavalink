@@ -4,7 +4,7 @@ const { execSync } = require("child_process");
 const path = "./Lavalink.jar";
 
 // Based on https://github.com/Cog-Creators/Lavalink-Jars/, untill that koltin based one is fixed.
-const lljar = "https://drive.google.com/file/d/1vdIUCu-Csq1SiBJ4Taz-CBRVr6FhvAzv/view?usp=share_link";
+const lljar = "https://cdn.darrennathanael.com/jars/cogs/Lavalink.jar";
 // temp code untill I made jar options & checking.
 // aka selection between downloading the "custom" "dev" "dev-with-plugins"
 
